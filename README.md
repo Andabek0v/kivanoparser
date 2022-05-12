@@ -8,6 +8,8 @@ Kivano.kg Scraper
 - source venv/bin/activate или . venv/bin/activate - для активации окружения
 должно появится (venv) в начале строки терминала
 
+- Установить библиотеки записанные в requirements.txt через комманду: pip install -r requirements.txt
+
 следующим запускаете python файл main.py
 - python main.py или python3 main.py
 
