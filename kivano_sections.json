@@ -1,0 +1,527 @@
+{
+    "Электроника": {
+        "Мобильные телефоны": "/mobilnye-telefony",
+        "Планшеты и Букридеры": [
+            "/elektronnye-knigi",
+            "/planshety",
+            "/graficheskie-planshety"
+        ],
+        "Аксессуары и гаджеты": [
+            "/batareyki-akkumulyatory-i-zaryadnye-ustroystva",
+            "/besprovodnye-naushniki-i-bluetooth-garnitury",
+            "/virtualnaya-realnost",
+            "/vneshnie-akkumulyatory-power-bank",
+            "/karty-pamyati-fleshki",
+            "/naushniki-dlya-telefona",
+            "/selfi-palki-monopody"
+        ],
+        "Телефоны для дома и офиса": [
+            "/provodnye-telefony",
+            "/radiotelefony"
+        ],
+        "ТВ, Аудио, Видео": [
+            "/diktofony",
+            "/doski-interaktivnye",
+            "/kolonki-portativnye",
+            "/kronshteyny-i-stoyki-dlya-televizorov",
+            "/media-pleery",
+            "/radiobudilniki-i-priemniki",
+            "/resivery-tyunery-dvb-t2-tsifrovoe-tv",
+            "/televizory",
+            "/ekrany-dlya-proektora",
+            "/proektory",
+            "/igrovye-pristavki",
+            "/dvd-i-blu-ray-pleery",
+            "/igry-dlya-pristavok",
+            "/domashnie-kinoteatry",
+            "/magnitoly-i-akusticheskie-sistemy"
+        ],
+        "Умный дом и Безопасность": [
+            "/videonablyudenie"
+        ],
+        "Фото и Видео": [
+            "/videokamery-i-ekshn-kamery",
+            "/vspyshki",
+            "/drony-kvadrokoptery",
+            "/mikroskopy",
+            "/obektivy",
+            "/sumki-i-chekhly-dlya-fotoapparatov",
+            "/fotoapparaty"
+        ],
+        "Музыкальные инструменты": [
+            "/gitary",
+            "/gubnye-garmoshki",
+            "/mikrofony",
+            "/sintezatory"
+        ]
+    },
+    "Компьютеры": {
+        "Ноутбуки и Компьютеры": [
+            "/noutbuki",
+            "/podstavki-dlya-noutbukov",
+            "/sumki-dlya-noutbukov",
+            "/monobloki",
+            "/kompyutery-gotovye-resheniya"
+        ],
+        "Перифирия": [
+            "/usb-fleshki",
+            "/veb-kamery",
+            "/vneshnie-zhestkie-diski",
+            "/klaviatury",
+            "/kovriki-dlya-myshek",
+            "/kolonki-dlya-kompyutera",
+            "/komplekty-mysh-klaviatura",
+            "/monitory",
+            "/myshi-kompyuternye",
+            "/naushniki-dlya-kompyutera",
+            "/ruli-dzhoystiki-geympady"
+        ],
+        "Защита питания": [
+            "/invertory",
+            "/setevye-udliniteli-troyniki-i-filtry",
+            "/stabilizatory",
+            "/ups-ibp"
+        ],
+        "Оргтехника": [
+            "/kalkulyatory",
+            "/kartridzhi-dlya-printerov",
+            "/schetchiki-banknot-i-detektory-valyut",
+            "/toner-kraski-chernila",
+            "/shredery",
+            "/mfu-printer-kopir-skaner",
+            "/printery",
+            "/kopirovalnye-apparaty",
+            "/skanery"
+        ],
+        "Сетевое оборудование": [
+            "/wifi-adaptery",
+            "/wifi-routery",
+            "/wifi-tochki-dostupa"
+        ],
+        "Софт": [
+            "/zaschita-i-antivirusy",
+            "/operatsionnye-sistemy",
+            "/ofisnye-programmy"
+        ],
+        "Комплектующие": [
+            "/bloki-pitaniya",
+            "/diskovody-i-privody",
+            "/zhestkie-diski-i-ssd",
+            "/korpusa",
+            "/materinskie-platy",
+            "/operativnaya-pamyat",
+            "/sistemy-okhlazhdeniya",
+            "/protsessory",
+            "/videokarty"
+        ]
+    },
+    "Бытовая техника": {
+        "Мелкая бытовая техника": [
+            "/blinnitsy-i-vafelnitsy",
+            "/dispensery-kulery-i-filtry-dlya-vody",
+            "/yogurtnitsy-i-morozhenitsy",
+            "/sushilki-dlya-ovoschey-i-fruktov",
+            "/termopoty",
+            "/kofevarki",
+            "/kofemolki",
+            "/blendery",
+            "/kombayny",
+            "/multivarki",
+            "/tostery-sendvichnitsy-elektrogrili",
+            "/miksery",
+            "/frityurnitsy",
+            "/sokovyzhimalki",
+            "/khlebopechki",
+            "/myasorubki",
+            "/mikrovolnovye-pechi",
+            "/elektrochayniki",
+            "/kukhonnye-vesy"
+        ],
+        "Крупная бытовая техника": [
+            "/varochnye-paneli",
+            "/vytyazhki",
+            "/dukhovki",
+            "/plity",
+            "/posudomoechnye-mashiny",
+            "/kholodilniki"
+        ],
+        "Климатическая техника": [
+            "/gazovye-kotly",
+            "/konditsionery",
+            "/meteostantsii",
+            "/osushiteli-vozdukha",
+            "/ochistiteli-vozdukha",
+            "/teplye-poly-i-maty",
+            "/uvlazhniteli-vozdukha",
+            "/ventilyatory",
+            "/obogrevateli"
+        ],
+        "Техника для дома": [
+            "/vodonagrevateli",
+            "/otparivateli-dlya-odezhdy",
+            "/stiralnye-mashiny",
+            "/sushilnye-mashiny",
+            "/shveynye-mashiny-i-overloki",
+            "/utyugi",
+            "/pylesosy",
+            "/napolnye-vesy"
+        ]
+    },
+    "Красота и Здоровье": {
+        "Товары для красоты": [
+            "/kosmeticheskie-pribory",
+            "/mashinki-dlya-strizhki-volos",
+            "/pribory-dlya-zavivki-resnits",
+            "/utyuzhki-ployki-vypryamiteli",
+            "/feny",
+            "/kosmeticheskie-zerkala",
+            "/manikyurnye-i-pedikyurnye-nabory",
+            "/trimmery",
+            "/elektrobritvy",
+            "/epilyatory"
+        ],
+        "Парфюмерия": [
+            "/muzhskaya-parfyumeriya",
+            "/zhenskaya-parfyumeriya",
+            "/uniseks-parfyumeriya"
+        ],
+        "Медицинская техника": [
+            "/zubnye-schetki-i-irrigatory",
+            "/ingalyatory",
+            "/infrakrasnye-lampy",
+            "/lampy-dnevnogo-sveta",
+            "/pulsografy",
+            "/pulsoksimetry",
+            "/svetovye-budilniki",
+            "/slukhovye-apparaty",
+            "/termometry",
+            "/tonometry",
+            "/elektro-i-miostimulyatory",
+            "/elektro-odeyala",
+            "/elektro-prostyni",
+            "/massazhery",
+            "/elektrogrelki"
+        ]
+    },
+    "Одежда и Аксессуары": {
+        "Часы": [
+            "/smart-chasy-i-fitnes-braslety",
+            "/chasy-zhenskie",
+            "/chasy-muzhskie",
+            "/chasy-detskie",
+            "/chasy-uniseks"
+        ],
+        "Аксессуары": [
+            "/breloki",
+            "/ukrasheniya",
+            "/koshelki-portmone",
+            "/klatchi-i-barsetki"
+        ],
+        "Сумки": [
+            "/sumki-zhenskie",
+            "/sumki-muzhskie",
+            "/sumki-uniseks"
+        ],
+        "Мужская одежда": [
+            "/tolstovki",
+            "/futbolki"
+        ],
+        "Детская одежда": [
+            "/odezhda-dlya-devochek"
+        ]
+    },
+    "Детские товары": {
+        "Детский спорт": [
+            "/detskiy-transport",
+            "/igrovaya-ploschadka"
+        ],
+        "Прогулки и путешествия": [
+            "/avtokresla",
+            "/kenguru-perenoski"
+        ],
+        "Гигиена": [
+            "/vannochki-dlya-novorozhdennykh",
+            "/gigiena-malysha",
+            "/kosmetika",
+            "/podguzniki-gorshki"
+        ],
+        "Кормление": [
+            "/butylochki-dlya-kormleniya",
+            "/podogrevateli",
+            "/posuda-dlya-detey",
+            "/pustyshki-karabiny",
+            "/soski-dlya-butylochek",
+            "/sterilizatory",
+            "/termosy-aksessuary"
+        ],
+        "Игрушки": [
+            "/govoryaschie-igrushki",
+            "/golovolomki",
+            "/igrovye-tsentry-kovriki",
+            "/igrushki-dlya-kupaniya",
+            "/igrushki-na-kolyasku",
+            "/igrushki-na-prisoske",
+            "/inertsionnye-mashinki",
+            "/mobili-na-krovatku",
+            "/muzykalnye-igrushki",
+            "/pervye-igrushki",
+            "/pogremushki-gryzuny",
+            "/radioupravlyaemye-igrushki",
+            "/konstruktory"
+        ],
+        "Коляски": [
+            "/aksessuary-dlya-kolyaski",
+            "/kolyaski-2-v-1",
+            "/kolyaski-3-v-1",
+            "/progulochnye-kolyaski"
+        ],
+        "Безопасность и Здоровье": [
+            "/bezopasnost",
+            "/video-radio-nyani",
+            "/detskie-vesy",
+            "/zubnye-schetki"
+        ],
+        "Детская комната": [
+            "/detskie-kresla",
+            "/kreslo-kachalki",
+            "/krovatki-i-manezhi",
+            "/nochniki",
+            "/podushki-detskie",
+            "/stulchiki-dlya-kormleniya",
+            "/khodunki"
+        ],
+        "Мамам": [
+            "/bele-dlya-mam",
+            "/gigiena-mamy"
+        ]
+    },
+    "Спорт и Отдых": {
+        "Туризм": [
+            "/aksessuary-dlya-turizma",
+            "/binokli",
+            "/bumerangi",
+            "/kemping",
+            "/kompasy",
+            "/kruzhki-i-termokruzhki",
+            "/megafony-gromkogovoritel",
+            "/metalloiskateli",
+            "/multituly",
+            "/nastolnye-igry",
+            "/nozhi",
+            "/palatki",
+            "/pily-lopaty",
+            "/pledy",
+            "/podarochnye-nabory",
+            "/podarochnye-sertifikaty",
+            "/podushki-podgolovniki",
+            "/polotentsa",
+            "/posuda-turisticheskaya",
+            "/rogatki",
+            "/rybalka",
+            "/ryukzaki",
+            "/spalnye-meshki",
+            "/sumki-kholodilniki",
+            "/termosy",
+            "/flyagi",
+            "/fonari",
+            "/chemodany",
+            "/shlemy-i-kaski"
+        ],
+        "Лыжи и Сноуборд": [
+            "/sanki"
+        ],
+        "Тренажеры": [
+            "/begovye-dorozhki",
+            "/velotrenazhery",
+            "/silovye-trenazhery",
+            "/turniki",
+            "/ellipticheskie-trenazhery"
+        ],
+        "Велосипеды": [
+            "/velosipedy-vzroslye",
+            "/velosipedy-detskie",
+            "/velosipedy-podrostkovye",
+            "/giroskutery-i-samokaty"
+        ],
+        "Спортивное питание": [
+            "/aminokisloty",
+            "/vitaminy-i-mineraly",
+            "/geynery",
+            "/drugoe-sportivnoe-pitanie",
+            "/zhiroszhigateli",
+            "/kreatin",
+            "/posttrenirovochnye-kompleksy",
+            "/predtrenirovochnye-kompleksy",
+            "/protein"
+        ],
+        "Спортивный инвентарь": [
+            "/boks-i-edinoborstva",
+            "/bolshoy-tennis",
+            "/yoga",
+            "/plavanie",
+            "/silovye-trenirovki",
+            "/fitnes",
+            "/futbol"
+        ]
+    },
+    "Автотовары": {
+        "Автомобильная акустика": [
+            "/dvd-proigryvateli-dlya-avto",
+            "/avtomagnitoly",
+            "/avtomobilnye-kolonki",
+            "/avtousiliteli",
+            "/sabvufery",
+            "/fm-modulyatory-transmittery"
+        ],
+        "Автоэлектроника": [
+            "/alkotestery",
+            "/videoregistratory",
+            "/radar-detektory-antiradary",
+            "/gps-navigatory",
+            "/avtosignalizatsii"
+        ],
+        "Шины": [
+            "/shiny-vsesezonnye",
+            "/shiny-zimnie",
+            "/shiny-letnie"
+        ],
+        "Автозапчасти": [
+            "/akkumulyatory"
+        ],
+        "Автомобильные аксессуары": [
+            "/avtomobilnye-zaryadnye-ustroystva",
+            "/bagazhniki-i-boksy-na-kryshu",
+            "/domkraty"
+        ]
+    },
+    "Дом Сад Ремонт": {
+        "Сантехника": [
+            "/zerkala",
+            "/moyki-kukhonnye",
+            "/polotentsesushiteli",
+            "/rakoviny-i-umyvalniki",
+            "/smesiteli-krany",
+            "/unitazy-i-bide"
+        ],
+        "Хозяйственные товары": [
+            "/gladilnye-doski",
+            "/sushilki-dlya-belya",
+            "/tovary-dlya-uborki"
+        ],
+        "Текстиль": [
+            "/odeyala",
+            "/pledy-pokryvala",
+            "/podushki",
+            "/postelnoe-bele",
+            "/skaterti",
+            "/shtory-i-tyul"
+        ],
+        "Мебель": [
+            "/bin-begi",
+            "/veshalki",
+            "/divany",
+            "/krovati-i-osnovaniya",
+            "/matrasy",
+            "/stoly",
+            "/shkafy",
+            "/kresla",
+            "/stulya",
+            "/seyfy"
+        ],
+        "Дача и Сад": [
+            "/aksessuary-dlya-barbekyu",
+            "/basseyny-i-aksessuary",
+            "/grili-i-mangaly"
+        ],
+        "Освещение": [
+            "/svetilniki",
+            "/prozhektory-i-fonari",
+            "/ulichnoe-osveschenie"
+        ],
+        "Садовая техника": [
+            "/vozdukhoduvki-i-sadovye-pylesosy",
+            "/gazonokosilki",
+            "/zernodrobilki",
+            "/kultivatory",
+            "/kustorezy",
+            "/minimoyki",
+            "/nasosy",
+            "/poliv-i-oroshenie",
+            "/sadovyy-instrument",
+            "/snegouborschiki",
+            "/trimmery-dlya-gazona",
+            "/tsepnye-pily"
+        ],
+        "Силовая техника": [
+            "/generatory",
+            "/svarochnoe-oborudovanie"
+        ],
+        "Инструмент": [
+            "/betonomeshalki",
+            "/izmeritelnaya-tekhnika",
+            "/kompressory",
+            "/lestnitsy-i-stremyanki",
+            "/nabory-instrumentov",
+            "/payalniki",
+            "/perforatory",
+            "/pistolety-dlya-remonta",
+            "/ruchnoy-instrument",
+            "/sadovye-tachki-i-telezhki",
+            "/stanki",
+            "/stroitelnye-feny",
+            "/frezery",
+            "/shlifovalnye-mashinki",
+            "/shtroborezy",
+            "/shurupovyorty",
+            "/elektrodreli-dreli",
+            "/elektrolobziki-lobziki",
+            "/elektropily",
+            "/elektrorubanki"
+        ],
+        "Интерьер и Декор": [
+            "/gorshki-podstavki-dlya-tsvetov",
+            "/chasy-interernye"
+        ]
+    },
+    "Посуда": {
+        "Приготовление пищи": [
+            "/aksessuary-dlya-gotovki",
+            "/vypechka-i-zapekanie",
+            "/durshlagi-i-sita",
+            "/kastryuli",
+            "/kovshi",
+            "/kryshki-dlya-posudy",
+            "/nabory-posudy",
+            "/nozhi-nozhnitsy-tochilki",
+            "/razdelochnye-doski",
+            "/skovorody-i-soteyniki",
+            "/terki-i-izmelchiteli",
+            "/fondyu-posuda"
+        ],
+        "Хранение продуктов": [
+            "/konteynery-i-lanch-boksy",
+            "/solonki-perechnitsy-i-emkosti-dlya-spetsiy",
+            "/khlebnitsy"
+        ],
+        "Приготовление чая, кофе, напитков": [
+            "/distillyatory",
+            "/zavarochnye-chayniki",
+            "/turki-i-kofeyniki",
+            "/french-press",
+            "/chayniki-dlya-kipyacheniya-vody"
+        ],
+        "Сервировка стола": [
+            "/blyuda-i-salatniki",
+            "/bokaly-i-stakany",
+            "/kruzhki-blyudtsa-i-pary",
+            "/kuvshiny-i-grafiny",
+            "/podnosy",
+            "/predmety-servirovki",
+            "/ryumki-i-stopki",
+            "/servizy",
+            "/stolovye-pribory",
+            "/tarelki"
+        ]
+    },
+    "Книги": "/knigi"
+}
